@@ -1,6 +1,8 @@
 # play-audio
 This is the decoding of the audio. It supports mp3 and ogg, but does not seem to support aac and m4a.
-     1.Install Node.js;
+The decoding part comes from 0x40.mon.im,the github is  https://github.com/mon/0x40-web.
+
+     1.Install Node.js;
     
     2. node .\httpserver.js;
     
